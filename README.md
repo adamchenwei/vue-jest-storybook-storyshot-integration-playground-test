@@ -1,4 +1,7 @@
 # vue-jest-storybook-storyshot-integration-playground
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/adamchenwei/vue-jest-storybook-storyshot-integration-playground-test.svg)](https://greenkeeper.io/)
+
 Adam
 ## Project setup
 ```
