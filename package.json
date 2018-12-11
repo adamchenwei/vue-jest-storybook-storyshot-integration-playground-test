@@ -14,8 +14,8 @@
     "vue": "^2.5.17"
   },
   "devDependencies": {
-    "@storybook/addon-actions": "4.0.0-alpha.20",
-    "@storybook/addon-links": "4.0.0-alpha.20",
+    "@storybook/addon-actions": "4.0.12",
+    "@storybook/addon-links": "4.0.12",
     "@vue/cli-plugin-babel": "^3.0.5",
     "@vue/cli-plugin-eslint": "^3.0.5",
     "@vue/cli-plugin-unit-jest": "^3.0.5",
